@@ -11,4 +11,4 @@ Output Date: P 21.09.2016 08:00
 
 How to execute script:
 
-$ dateReplacer.sh <input file> [optional output file name] <input year in YYYY format>
+$ dateReplacer.sh \<input file\> [optional output file name] \<input year in YYYY format\>
